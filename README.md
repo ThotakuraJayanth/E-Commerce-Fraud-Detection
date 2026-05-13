@@ -25,11 +25,9 @@ Key behavioral patterns identified during data analysis that help distinguish fr
 ### 🔍 Model Evaluation
 The system analyzes customer demographics and account history to calculate risk scores.
 
-
 | Customer Age Distribution | Model Performance Dashboard |
 | ----- | ----- |
-| ![Customer Age](cage.png) | ![Performance](img/performance.png) |
-
+| ![Customer Age](cage.png) | ![Performance](Performance.png) |
 ---
 
 ## ⚠️ Business Problem
